@@ -15,6 +15,7 @@ public class Proyecto01 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Dirección de UTPL: Calle Paris S/N");
     }
     
 }
